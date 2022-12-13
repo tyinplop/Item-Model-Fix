@@ -7,6 +7,6 @@
     "ItemModelGeneratorMixin"
   ],
   "injectors": {
-    "defaultRequire": 1
+    "defaultRequire": 0
   }
 }
